@@ -365,3 +365,6 @@ Win-visualstudio/MarkovPasswords/datasets/*
 
 
 include/*.so
+MarkovPasswordsGUI/views/echarts.js
+MarkovPasswordsGUI/views/jquery-3.6.0.min.js
+MarkovPasswordsGUI/views/vis-network.min.js
